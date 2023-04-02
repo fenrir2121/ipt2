@@ -4,7 +4,7 @@
     }
     
     
-    .nav-link:hover .nav-link.active,
+    .nav-link:hover, .nav-link.active,
         .nav-link:focus{
      
             
